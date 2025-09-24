@@ -1,2 +1,2 @@
 build:
-	ark -a base.ark pack
+	ark a base.ark pack
